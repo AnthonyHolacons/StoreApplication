@@ -1,6 +1,5 @@
 ﻿using Domain.Interfaces;
 using Domain.Models;
-using StoreWebApi.v1.Controllers.Articles.Services;
 using StoreWebApi.v1.Controllers.Purchases.PurchaseRequests;
 using StoreWebApi.v1.Controllers.Purchases.PurchaseResponses;
 using StoreWebApi.v1.Controllers.Purchases.Services.Interfaces;

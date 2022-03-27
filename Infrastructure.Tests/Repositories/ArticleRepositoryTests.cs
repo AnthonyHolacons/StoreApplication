@@ -8,7 +8,7 @@ using System.Linq;
 
 namespace Infrastructure.Tests.Repositories
 {
-    public class ArticleRepositoryTest
+    public class ArticleRepositoryTests
     {
         private StoreDbContext myContext;
 
