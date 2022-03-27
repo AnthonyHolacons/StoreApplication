@@ -17,6 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Tests", "Inf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreWebApi.Test", "StoreWebApi.Test\StoreWebApi.Test.csproj", "{5F4D6F01-8BF7-4FFD-A05C-E7A95B23F690}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resources", "resources", "{1EE3A888-6B25-4CD5-9D14-A1B8759D8E98}"
+	ProjectSection(SolutionItems) = preProject
+		SqlQueryStoreDb.sql = SqlQueryStoreDb.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
